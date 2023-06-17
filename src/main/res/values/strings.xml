@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PERKULIAHAN K9</string>
+    <string name="home">Home</string>
+    <string name="dosen">Dosen</string>
+    <string name="mahasiswa">Mahasiswa</string>
+    <string name="matkul">Matkul</string>
+</resources>
